@@ -3,6 +3,8 @@ This project involves building a machine learning model to predict the risk for 
 
 ## Data
 
+Link to dataset: https://www.kaggle.com/datasets/tanayatipre/car-price-prediction-dataset/data?select=test_data.csv
+
 ### Features
 
 The dataset used in this project contains 20 features, including:
